@@ -3,10 +3,10 @@
 /**
  * Plugin Name: WC Free Gifts
  * Description: This plugin let's you get the cheapest products for free as gifts if 3 or 5 items are added to the cart.
- * Plugin URI: https://www.mahimzaman.com
+ * Plugin URI: https://condixia.com
  * Version: 1.1
  * Author: Mahim Zaman
- * Author URI: https://www.mahimzaman.com
+ * Author URI: https://mahimzaman.com
  * Text Domain: wcfg
  * Domain Path: /languages
  */
